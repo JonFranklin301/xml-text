@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<livedata>
+	<time>20/08/2021 15:04:36</time>
+	<groups>
+		<group id="G1" name="1" name2="TheName2" info="121.1" info2="71.2"/>
+		<group id="G2" name="G2" name2="" info="12''" info2="false"/>
+		<group id="G3" name="G1" name2="" info="34''" info2="22''"/>
+	</groupes>
+</livedata>
